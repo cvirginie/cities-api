@@ -1,0 +1,50 @@
+{
+"cities": [
+	{
+        "id": 0,
+        "code_postal": "01400",
+        "code_insee": "01001",
+        "name": "L ABERGEMENT CLEMENCIAT"
+    }, {
+        "id": 1,
+        "code_postal": "01500",
+        "code_insee": "01007",
+        "name": "AMBRONAY"
+    }, {
+        "id": 2,
+        "code_postal": "01350",
+        "code_insee": "01010",
+        "name": "ANGLEFORT"
+    }, {
+        "id": 3,
+        "code_postal": "01300",
+        "code_insee": "01015",
+        "name": "ARBOYS EN BUGEY"
+    }, {
+        "id": 4,
+        "code_postal": "01230",
+        "code_insee": "01017",
+        "name": "ARGIS"
+    }, {
+        "id": 5,
+        "code_postal": "01570",
+        "code_insee": "01023",
+        "name": "ASNIERES SUR SAONE"
+    }, {
+        "id": 6,
+        "code_postal": "01380",
+        "code_insee": "01025",
+        "name": "BAGE DOMMARTIN"
+    }, {
+        "id": 7,
+        "code_postal": "01100",
+        "code_insee": "01031",
+        "name": "BELLIGNAT"
+    }, {
+        "id": 8,
+        "code_postal": "01360",
+        "code_insee": "01032",
+        "name": "BELIGNEUX"
+    }
+]
+}
